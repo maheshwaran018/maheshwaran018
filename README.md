@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:58A6FF&text=Maheshwaran&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:58A6FF&text=Maheshwaran%20N&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn" />
 
 # 🚀 AI & Data Science Engineer • Machine Learning Engineer • Generative AI Developer
 
