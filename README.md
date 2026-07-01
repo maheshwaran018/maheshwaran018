@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:58A6FF&text=Santhosh%20Kumar%20S&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:58A6FF&text=Maheshwaran&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn" />
 
 # 🚀 AI & Data Science Engineer • Machine Learning Engineer • Generative AI Developer
 
 ### Building AI Applications • LLM Systems • Machine Learning Solutions
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Machine+Learning+Engineer;Generative+AI+Developer;LLM+Engineer;RAG+Specialist;AI+Automation+Developer;Backend+Engineer;Building+Production+Ready+AI+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Generative+AI+Developer;Python+Developer;LLM+Engineer;RAG+Developer;Building+Real+World+AI+Applications" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Open%20To-Opportunities-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Focus-Generative%20AI-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Specialization-LLM%20%26%20RAG-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Specialization-ML%20%26%20LLMs-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Python-Advanced-yellow?style=for-the-badge" />
 
 </div>
